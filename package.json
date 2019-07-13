@@ -74,7 +74,7 @@
     "build-changelog": "2.1.2",
     "eslint": "5.12.0",
     "eslint-plugin-babel": "5.3.0",
-    "eslint-plugin-flowtype": "2.50.3",
+    "eslint-plugin-flowtype": "3.11.1",
     "eslint-plugin-import": "2.14.0",
     "eslint-plugin-react": "7.12.3",
     "flow-bin": "0.89.0",
